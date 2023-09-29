@@ -5,6 +5,8 @@ El objetivo del Proyecto Integrador es desarrollar una base de datos orientada a
 
 ## Planteamiento
 Un centro de formación ha solicitado el desarrollo de su base de datos en un modelo orientado a objetos que permita gestionar la información de profesores, alumnos y asignaturas. A continuación, se presenta la estructura general:
+![image](https://github.com/erikth97/Data-Bases-Advanced/assets/94486146/e4cbf177-4b7c-4000-97c0-7902c338d021)
+
 
 ### 1. Identificación de objetos y atributos
 
@@ -34,6 +36,8 @@ Un centro de formación ha solicitado el desarrollo de su base de datos en un mo
 
 ### 1.2 Diagrama de objetos
 Genera el correspondiente diagrama de objetos utilizando una herramienta de diagramado, como Lucidchart.
+![image](https://github.com/erikth97/Data-Bases-Advanced/assets/94486146/7e73f3e9-adfe-4139-b4d4-9a5ca3be7931)
+
 
 ### 2. Creación de objetos en base de datos
 
