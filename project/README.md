@@ -73,7 +73,6 @@ Alumno, Asignatura y Profesor deberán ser campos del tipo objeto, los que
 definiste en la etapa 2 del proyecto.
 ![image](https://github.com/erikth97/Data-Bases-Advanced/assets/94486146/5fde2541-ea78-4895-84a1-47405e865522)
 
-
 #### 3.2Inserción de información
 • Inserta información para cada una de las tablas, de forma que tengas registros
 suficientes para ingresar en la tabla relación 3 materias para un alumno, con su
