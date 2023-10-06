@@ -61,3 +61,22 @@ En este punto se realiza la creación de dos subclases en tu base de datos: Alum
 El objeto asignatura es un objeto que no hereda del objeto raíz. Crea el objeto correspondiente Asignatura y encapsula sus atributos. Integra los correspondientes métodos get para los atributos encapsulados.
 
 En este tercer punto, hemos creado el objeto Asignatura como una clase independiente que no hereda de Personas. Este tiene tres atributos encapsulados: Codigo_As para el código de la asignatura, Nombre_As para el nombre de la asignatura y Nombre_Pr para el nombre del profesor asociado a la asignatura. También hemos implementado los métodos get correspondientes para acceder a los atributos encapsulados. Esto permite gestionar información relacionada con asignaturas de forma independiente.
+
+### 3.  Generación de tablas a partir de los objetos
+
+####3.1 Generación de tablas
+• Tomando como base cada uno de los objetos creados crea sus correspondientes
+tablas.
+• Crea una tabla adicional en la que relaciones al alumno con el listado de
+asignaturas que toma y el profesor que la impartirá. Recuerda que para este caso
+Alumno, Asignatura y Profesor deberán ser campos del tipo objeto, los que
+definiste en la etapa 2 del proyecto.
+
+####3.2Inserción de información
+• Inserta información para cada una de las tablas, de forma que tengas registros
+suficientes para ingresar en la tabla relación 3 materias para un alumno, con su
+respectivo profesor.
+
+####3.3Consulta de información
+• Consulta la información ingresada en las diferentes tablas.
+• Explica los resultados obtenidos para cada caso.
