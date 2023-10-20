@@ -44,8 +44,6 @@ INSERT INTO Departamentos (ID_Dep, Nombre_dep)
 VALUES (7, 'Almacen');
 
 -- Insertar empleados ficticios en la tabla Empleados Para cada uno de los 7 departamentos
-
--- Departamento: Mercadotecnia (ID_Dep 1)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (1, 'Juan', 'Perez', 'Calle 123', '12345', 'Gerente de Marketing', 15000, 1);
 
