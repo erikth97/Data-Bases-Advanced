@@ -71,7 +71,6 @@ VALUES (8, 'Isabel', 'Torres', 'Calle 505', '67890', 'Contador Senior', 25000, 3
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (9, 'Miguel', 'Ortega', 'Avenida 606', '23456', 'Analista Contable', 27000, 3);
 
--- Departamento: Sistemas (ID_Dep 4)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (10, 'Laura', 'P�rez', 'Calle 707', '43210', 'Director de IT', 30000, 4);
 
@@ -81,7 +80,6 @@ VALUES (11, 'Carlos', 'G�mez', 'Avenida 808', '98701', 'Desarrollador Senior',
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (12, 'Ana', 'Ram�rez', 'Calle 909', '56789', 'T�cnico de Soporte', 28000, 4);
 
--- Departamento: Producci�n (ID_Dep 5)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (13, 'Pedro', 'Garc�a', 'Avenida 1010', '12345', 'Gerente de Producci�n', 35000, 5);
 
@@ -91,7 +89,6 @@ VALUES (14, 'Isabel', 'Soto', 'Calle 1111', '23456', 'Supervisor de L�nea', 31
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (15, 'Miguel', 'Mart�nez', 'Avenida 1212', '54321', 'Operario de M�quina', 29000, 5);
 
--- Departamento: Ventas (ID_Dep 6)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (16, 'Laura', 'Gonz�lez', 'Calle 1313', '67890', 'Director de Ventas', 42000, 6);
 
@@ -101,7 +98,6 @@ VALUES (17, 'Juan', 'L�pez', 'Avenida 1414', '43210', 'Representante de Ventas
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (18, 'Carlos', 'Ram�rez', 'Avenida 99992', '549008', 'Asistente de Ventas', 12000, 6);
 
--- Departamento: Almacen (ID_Dep 7)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (19, 'Roberto', 'S�nchez', 'Avenida 1616', '43210', 'Gerente de Almacen', 40000, 7);
 
