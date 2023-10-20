@@ -1,3 +1,4 @@
+-- Create New Database
 CREATE DATABASE Actividad4;
 
 CREATE TABLE alumnos (
