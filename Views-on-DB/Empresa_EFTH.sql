@@ -53,7 +53,6 @@ VALUES (2, 'Ana', 'Gonz�lez', 'Avenida 456', '56789', 'Especialista en Publici
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (3, 'Carlos', 'L�pez', 'Calle 789', '98765', 'Analista de Mercado', 22000, 1);
 
--- Departamento: Recursos Humanos (ID_Dep 2)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (4, 'Mar�a', 'Mart�nez', 'Calle 101', '54321', 'Gerente de Recursos Humanos', 17000, 2);
 
@@ -63,7 +62,6 @@ VALUES (5, 'Pedro', 'Ram�rez', 'Avenida 202', '67890', 'Especialista en Capaci
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (6, 'Laura', 'G�mez', 'Calle 303', '23456', 'Analista de RRHH', 21000, 2);
 
--- Departamento: Contabilidad (ID_Dep 3)
 INSERT INTO Empleados (ID_Emp, Nombre, Apellido, Direcci�n, Codigo_Postal, Cargo, Salario, ID_Dep)
 VALUES (7, 'Roberto', 'S�nchez', 'Avenida 404', '54321', 'Gerente de Contabilidad', 23000, 3);
 
