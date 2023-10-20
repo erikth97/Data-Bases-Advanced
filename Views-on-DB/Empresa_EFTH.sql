@@ -1,3 +1,4 @@
+-- Create New Database
 CREATE DATABASE Empresa_EFTH;
 
 -- tabla Departamentos
