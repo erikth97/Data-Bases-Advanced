@@ -129,7 +129,7 @@ CREATE OR REPLACE TYPE BODY Profesores AS
 END;
 /
 
--- Crear el objeto "Asignatura"
+-- Crear el objeto Asignatura
 CREATE TYPE Asignatura AS OBJECT (
   Codigo_As VARCHAR2(20),  
   Nombre_As VARCHAR2(50),  
